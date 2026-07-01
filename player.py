@@ -36,7 +36,7 @@ class Player:
         """Return the number of coins."""
         return self.__wallet
     
-    def get_name(self)
+    def get_name(self):
         """Return the name of the player."""
         return self.__name
     
