@@ -26,10 +26,10 @@ class Player:
     
     def win_coin(self):
         """Player gains one coin."""
-        self.wallet += 1
+        self.__wallet += 1
 
     def lose_coin(self):
-        """player loses oe coin."""
+        """player loses one coin."""
         self.__wallet -= 1 
 
     def get_wallet(self):
