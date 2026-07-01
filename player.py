@@ -22,7 +22,7 @@ class Player:
 
     def get_coin_side(self):
         """Reurn the result of the coin toss."""
-        return self.__coin.get__sideup()
+        return self.__coin.get_sideup()
     
     def win_coin(self):
         """Player gains one coin."""
