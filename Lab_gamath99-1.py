@@ -41,6 +41,11 @@ def main():
         #Identify the winner
 
         if side1 == side2:
+            print("...It's a Match! Player 1 wins a coin.")
+            player1.win_coin()
+            player2.lose_coin()
+
+        else:
             print("...No Match! Player 2 wins a coin.")
             player2.win_coin()
             player1.lose_coin()
