@@ -3,6 +3,7 @@ Match coin game
 Gama MATHURIN
 This class represents a player. A player has a name, has a wallet of coins, 
 and has a coin object to toss.
+Import of Coin in order touse the function 
 06/30/2026
 """
 

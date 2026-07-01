@@ -2,6 +2,7 @@
 Match coin game
 Gama MATHURIN
 This files runs the game. It creates the player objects andmanages thegame loop and rules.
+Import player to be able to use the function from tis file 
 06/30/2026
 """
 

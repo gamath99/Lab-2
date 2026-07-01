@@ -3,7 +3,8 @@ Match coin Game
 Gama MATHURIN
 This file contain the class that represent a single, tossable coin. 
 The result can be either head or tail. 
-06/29/2026
+import a built-in function 
+06/30/2026
 """
 
 #import random to be ale to choose the side
